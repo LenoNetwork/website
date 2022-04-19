@@ -647,5 +647,16 @@
   "discord": "https://discord.com/invite/NPHwzZA5",
   "twitter": "https://twitter.com/Fortisoeconomia",
   "telegram": "https://t.me/fortisoeconomia"  
+},{
+  "icon": "Leno.png",
+  "title": "Leno Network",
+  "text": "Launchpad, Lending and Borrow Protocol on Juno Network",
+  "featured": true,
+  "category": "Dapp",
+  "website": "https://www.leno.network/",
+  "github": "https://github.com/LenoNetwork",
+  "discord": "https://discord.gg/JVpCT5B9Te",
+  "twitter": "https://twitter.com/LenoNetwork",
+  "telegram": "https://t.me/lenonetwork"  
 }
 ]
